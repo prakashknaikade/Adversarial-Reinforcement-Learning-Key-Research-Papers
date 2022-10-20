@@ -7,7 +7,7 @@ training-time (environment poisoning) attacks on RL agents.
 These research papers provides better perspective of important problems for developing robust and secure algorithms in sequential decision-making settings.
 This repo is result of [Course - Adversarial Reinforcement Learning ](https://machineteaching.mpi-sws.org/course-adversarialrl-w21.html) I followed at Saarland University. 
 
-## List of research papers
+## List of research papers covered
 
 ### Test-time attacks
 1. [Tactics of Adversarial Attack on Deep Reinforcement Learning Agents](https://williamd4112.github.io/pubs/ijcai2017_adv.pdf)  
