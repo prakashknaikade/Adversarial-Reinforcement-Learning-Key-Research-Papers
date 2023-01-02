@@ -19,14 +19,14 @@ by J. Sun, T. Zhang, X. Xie, L. Ma, Y. Zheng, K. Chen, and Y. Liu, at AAAI 2020.
 3. [Robust Deep Reinforcement Learning against Adversarial Perturbations on State Observations](https://proceedings.neurips.cc/paper/2020/file/f0eb6568ea114ba6e293f903c34d7488-Paper.pdf)  
 by H. Zhang, H. Chen, C. Xiao, B. Li, M. Liu, D. Boning, and C. Hsieh, at NeurIPS 2020.
 
-## Backdoor attacks
+### Backdoor attacks
 4. [TrojDRL: Evaluation of Backdoor Attacks on Deep Reinforcement Learning](https://susmitjha.github.io/papers/AAAI20.pdf)  
 by P. Kiourti, K. Wardega, S. Jha, and W. Li, at DAC 2020.
 
 5. [Temporal Watermarks for Deep Reinforcement Learning Models](https://personal.ntu.edu.sg/tianwei.zhang/paper/aamas2021.pdf)  
 by K. Chen, S. Guo, T. Zhang, S. Li, and Y. Liu, at AAMAS 2021.
 
-## Training-time attacks
+### Training-time attacks
 6. [Policy Teaching via Environment Poisoning: Training-time Adversarial Attacks against Reinforcement Learning](http://proceedings.mlr.press/v119/rakhsha20a/rakhsha20a.pdf)  
 by A. Rakhsha, G. Radanovic, R. Devidze, X. Zhu, and A. Singla, at ICML 2020.
 
